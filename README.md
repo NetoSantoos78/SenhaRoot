@@ -1,6 +1,6 @@
 # Testador de Proxy
 
-bash <(wget -qO- https://raw.githubusercontent.com/NetoSantoos78/SenhaRoot/main/testador)
+bash <(wget -qO- https://raw.githubusercontent.com/NetoSantoos78/SenhaRoot/main/testador.sh)
 # SenhaRoot
 
 bash <(wget -qO- https://raw.githubusercontent.com/NetoSantoos78/SenhaRoot/main/mudar)
